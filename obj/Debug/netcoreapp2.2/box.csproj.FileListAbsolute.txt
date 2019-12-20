@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/bin/Debug/netcoreapp2.2/box.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/bin/Debug/netcoreapp2.2/box.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/bin/Debug/netcoreapp2.2/box.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/bin/Debug/netcoreapp2.2/box.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/bin/Debug/netcoreapp2.2/box.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/box/obj/Debug/netcoreapp2.2/box.pdb
